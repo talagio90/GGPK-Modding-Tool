@@ -1,0 +1,1307 @@
+{
+  "Version": "1.0.0",
+  "Poe1": {
+    "Pets": [
+      {
+        "Name": "Eternal Rhoa Pet",
+        "PreviewUrl": "https://www.youtube.com/watch?v=GVjmIAmERjM",
+        "IconPath": "pack://application:,,,/Assets/Pet/Eternal_Rhoa_Pet.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PET_FLEXIBLE",
+          "metadata/pet/babyrhoaflying/babyrhoaflying.act",
+          "metadata/pet/weta/basic.act",
+          "metadata/pet/babyrhoaflying/babyrhoaflying.ao",
+          "metadata/pet/weta/basic.ao",
+          "metadata/pet/babyrhoaflying/babyrhoaflying.ot",
+          "metadata/pet/weta/basic.ot"
+        ]
+      },
+      {
+        "Name": "Celestial Turtle Pet",
+        "PreviewUrl": "https://www.youtube.com/watch?v=AJSjOp7k6KE",
+        "IconPath": "pack://application:,,,/Assets/Pet/Celestial_Turtle.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PET_FLEXIBLE",
+          "metadata/pet/celestialturtle/celestialturtle.act",
+          "metadata/pet/weta/basic.act",
+          "metadata/pet/celestialturtle/celestialturtle.ao",
+          "metadata/pet/weta/basic.ao",
+          "metadata/pet/celestialturtle/celestialturtle.ot",
+          "metadata/pet/weta/basic.ot"
+        ]
+      },
+      {
+        "Name": "Divergence Predator Pet",
+        "PreviewUrl": "https://www.youtube.com/watch?v=X70f1gw5pB8",
+        "IconPath": "pack://application:,,,/Assets/Pet/DivergencePredatorPet.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PET_FLEXIBLE",
+          "metadata/pet/divergenceanglerfish/divergenceanglerfish.act",
+          "metadata/pet/weta/basic.act",
+          "metadata/pet/divergenceanglerfish/divergenceanglerfish.ao",
+          "metadata/pet/weta/basic.ao",
+          "metadata/pet/divergenceanglerfish/divergenceanglerfish.ot",
+          "metadata/pet/weta/basic.ot"
+        ]
+      },
+      {
+        "Name": "Sunrise Wolf Pet",
+        "PreviewUrl": "https://www.youtube.com/watch?v=DCUEUWgK3rI",
+        "IconPath": "pack://application:,,,/Assets/Pet/SunriseWolfPet.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PET_FLEXIBLE",
+          "metadata/pet/wolf/sunrisewolf.act",
+          "metadata/pet/weta/basic.act",
+          "metadata/pet/wolf/sunrisewolf.ao",
+          "metadata/pet/weta/basic.ao",
+          "metadata/pet/wolf/sunrisewolf.ot",
+          "metadata/pet/weta/basic.ot"
+        ]
+      },
+      {
+        "Name": "Celestial Cat Pet",
+        "PreviewUrl": "https://www.youtube.com/watch?v=w-kx0zWsykM",
+        "IconPath": "pack://application:,,,/Assets/Pet/CelestialCat.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PET_FLEXIBLE",
+          "metadata/pet/cat/celestial.act",
+          "metadata/pet/weta/basic.act",
+          "metadata/pet/cat/celestial.ao",
+          "metadata/pet/weta/basic.ao",
+          "metadata/pet/cat/celestial.ot",
+          "metadata/pet/weta/basic.ot"
+        ]
+      },
+      {
+        "Name": "Nightfall Dragon Pet",
+        "PreviewUrl": "https://www.youtube.com/watch?v=kSjKGCoSFv8",
+        "IconPath": "pack://application:,,,/Assets/Pet/NightfallDragonPet.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PET_FLEXIBLE",
+          "metadata/pet/dragon/twilightnightfalldragonpremium.act",
+          "metadata/pet/weta/basic.act",
+          "metadata/pet/dragon/twilightnightfalldragonpremium.ao",
+          "metadata/pet/weta/basic.ao",
+          "metadata/pet/dragon/twilightnightfalldragonpremium.ot",
+          "metadata/pet/weta/basic.ot"
+        ]
+      },
+      {
+        "Name": "Stygian Steed Pet",
+        "PreviewUrl": "https://www.youtube.com/watch?v=L-hoQCwBXfo",
+        "IconPath": "pack://application:,,,/Assets/Pet/StygianSteed.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PET_FLEXIBLE",
+          "metadata/pet/stygiansteed/stygiansteedpet.act",
+          "metadata/pet/weta/basic.act",
+          "metadata/pet/stygiansteed/stygiansteedpet.ao",
+          "metadata/pet/weta/basic.ao",
+          "metadata/pet/stygiansteed/stygiansteedpet.ot",
+          "metadata/pet/weta/basic.ot"
+        ]
+      },
+      {
+        "Name": "Hell Horse Pet",
+        "PreviewUrl": "https://www.youtube.com/watch?v=aU9-b32g-oo",
+        "IconPath": "pack://application:,,,/Assets/Pet/DemonicSteedPet.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PET_FLEXIBLE",
+          "metadata/pet/stygiansteed/hellsteedpet.act",
+          "metadata/pet/weta/basic.act",
+          "metadata/pet/stygiansteed/hellsteedpet.ao",
+          "metadata/pet/weta/basic.ao",
+          "metadata/pet/stygiansteed/hellsteedpet.ot",
+          "metadata/pet/weta/basic.ot"
+        ]
+      },
+      {
+        "Name": "Corsair Monkey Pet",
+        "PreviewUrl": "https://www.youtube.com/watch?v=0WpkFSUJCcw",
+        "IconPath": "pack://application:,,,/Assets/Pet/CorsairPet.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PET_FLEXIBLE",
+          "metadata/pet/corsairpet/corsairpet.act",
+          "metadata/pet/weta/basic.act",
+          "metadata/pet/corsairpet/corsairpet.ao",
+          "metadata/pet/weta/basic.ao",
+          "metadata/pet/corsairpet/corsairpet.ot",
+          "metadata/pet/weta/basic.ot"
+        ]
+      },
+      {
+        "Name": "Chimeral Pet",
+        "PreviewUrl": "https://www.youtube.com/watch?v=Wf4qh3iCKz0&t=18s",
+        "IconPath": "pack://application:,,,/Assets/Pet/ChimeraPet.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PET_FLEXIBLE",
+          "metadata/pet/babychimera/babychimera.act",
+          "metadata/pet/weta/basic.act",
+          "metadata/pet/babychimera/babychimera.ao",
+          "metadata/pet/weta/basic.ao",
+          "metadata/pet/babychimera/babychimera.ot",
+          "metadata/pet/weta/basic.ot"
+        ]
+      },
+      {
+        "Name": "Jingwei Premium Pet",
+        "PreviewUrl": "https://poedb.tw/us/Jingwei_Premium_Pet",
+        "IconPath": "pack://application:,,,/Assets/Pet/JingweiCrane.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PET_FLEXIBLE",
+          "metadata/pet/jingweicrane/jingweicrane.act",
+          "metadata/pet/weta/basic.act",
+          "metadata/pet/jingweicrane/jingweicrane.ao",
+          "metadata/pet/weta/basic.ao",
+          "metadata/pet/jingweicrane/jingweicrane.ot",
+          "metadata/pet/weta/basic.ot"
+        ]
+      }
+    ],
+    "Portals": [
+      {
+        "Name": "Jellyfish Portal",
+        "PreviewUrl": "https://www.youtube.com/watch?v=MX8p0X0wH1w",
+        "IconPath": "pack://application:,,,/Assets/Portal/Jellyfish_Portal.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/jellyfishportal/jellyfishportal.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/jellyfishportal/jellyfishportal.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/jellyfishportal/jellyfishportal.ao",
+          "metadata/effects/spells/portal/town_portal.ao"
+        ]
+      },
+      {
+        "Name": "Kaom Portal",
+        "PreviewUrl": "https://www.youtube.com/watch?v=LG08nRWK-9w",
+        "IconPath": "pack://application:,,,/Assets/Portal/KaomPortal.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/kaomportal/kaomportal.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/kaomportal/kaomportal.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/kaomportal/kaomportal.ao",
+          "metadata/effects/spells/portal/town_portal.ao"
+        ]
+      },
+      {
+        "Name": "Window to Twilight Portal",
+        "PreviewUrl": "https://www.youtube.com/watch?v=_7djuncYWqk&t=376s",
+        "IconPath": "pack://application:,,,/Assets/Portal/TwilightWindowPortal.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/twilightwindowportal/twilightwindowportal_map.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/twilightwindowportal/twilightwindowportal_map.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/twilightwindowportal/twilightwindowportal_map.ao",
+          "metadata/effects/spells/portal/town_portal.ao"
+        ]
+      },
+      {
+        "Name": "Albino Toad King Portal",
+        "PreviewUrl": "https://www.youtube.com/watch?v=XH-QeA28Fg8",
+        "IconPath": "pack://application:,,,/Assets/Portal/AlbinoToadKingPortal.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/gianttoadportal/albino_gianttoadportal.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/gianttoadportal/albino_gianttoadportal.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/gianttoadportal/albino_gianttoadportal.ao",
+          "metadata/effects/spells/portal/town_portal.ao"
+        ]
+      },
+      {
+        "Name": "Incarnation of Dread Portal",
+        "PreviewUrl": "https://www.youtube.com/watch?v=mr6Gb6XR76w&t=32s",
+        "IconPath": "pack://application:,,,/Assets/Portal/IncarnationofDreadPortal.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/incarnationofdreadportal/incarnationofdreadportal.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/incarnationofdreadportal/incarnationofdreadportal.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/incarnationofdreadportal/incarnationofdreadportal.ao",
+          "metadata/effects/spells/portal/town_portal.ao"
+        ]
+      },
+      {
+        "Name": "Pandemonium Portal",
+        "PreviewUrl": "https://www.youtube.com/watch?v=acKH154w6ag",
+        "IconPath": "pack://application:,,,/Assets/Portal/PandemoniumPortal.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/PandemoniumMergedPortal/PandemoniumMergedPortal.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/PandemoniumMergedPortal/PandemoniumMergedPortal.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/PandemoniumMergedPortal/PandemoniumMergedPortal.ao",
+          "metadata/effects/spells/portal/town_portal.ao"
+        ]
+      },
+      {
+        "Name": "Maven Portal",
+        "PreviewUrl": "https://www.youtube.com/watch?v=4aBpYEEgJig",
+        "IconPath": "pack://application:,,,/Assets/Portal/MavenPortalEffect.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/mavenportal/mavenportal.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/mavenportal/mavenportal.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/mavenportal/mavenportal.ao",
+          "metadata/effects/spells/portal/town_portal.ao"
+        ]
+      },
+      {
+        "Name": "Bestiary Portal",
+        "PreviewUrl": "https://www.youtube.com/watch?v=J0v6IAnWvPk&t=17s",
+        "IconPath": "pack://application:,,,/Assets/Portal/bestiaryportal.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/bestiaryportal/rig.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/bestiaryportal/rig_map.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/bestiaryportal/rig.ao",
+          "metadata/effects/spells/portal/town_portal.ao"
+        ]
+      },
+      {
+        "Name": "Atlantis Portal",
+        "PreviewUrl": "https://www.youtube.com/watch?v=fTMSmErqqtM",
+        "IconPath": "pack://application:,,,/Assets/Portal/atlantisportaleffect.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/atlantisportal/atlantisportal.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/atlantisportal/atlantisportal_map.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/atlantisportal/atlantisportal.ao",
+          "metadata/effects/spells/portal/town_portal.ao"
+        ]
+      },
+      {
+        "Name": "Breachlord Portal",
+        "PreviewUrl": "https://www.youtube.com/watch?v=EatCgsWKNCM&t=16s",
+        "IconPath": "pack://application:,,,/Assets/Portal/breachsupporterportal.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/breachsupporterportal/rig.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/breachsupporterportal/rig_map.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/breachsupporterportal/rig.ao",
+          "metadata/effects/spells/portal/town_portal.ao"
+        ]
+      },
+      {
+        "Name": "Delve Core Portal",
+        "PreviewUrl": "https://www.youtube.com/watch?v=JJ2SnIrickY&t=15s",
+        "IconPath": "pack://application:,,,/Assets/Portal/coredelveportaleffect.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/delveportal/rig.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/delveportal/rig_map.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/delveportal/rig.ao",
+          "metadata/effects/spells/portal/town_portal.ao"
+        ]
+      },
+      {
+        "Name": "Crucible Forge Portal",
+        "PreviewUrl": "https://www.youtube.com/watch?v=9ljwpAr6aAk",
+        "IconPath": "pack://application:,,,/Assets/Portal/crucibleportaleffect.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/cruciblefountain_portal/cruciblefountainportal.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/cruciblefountain_portal/cruciblefountainportal_map.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/cruciblefountain_portal/cruciblefountainportal.ao",
+          "metadata/effects/spells/portal/town_portal.ao"
+        ]
+      },
+      {
+        "Name": "Jingwei Portal",
+        "PreviewUrl": "https://poedb.tw/us/Jingwei_Portal_Effect",
+        "IconPath": "pack://application:,,,/Assets/Portal/jingweiportal.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/jingweiportal/jingweiportal.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/jingweiportal/jingweiportal_map.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/jingweiportal/jingweiportal.ao",
+          "metadata/effects/spells/portal/town_portal.ao"
+        ]
+      },
+      {
+        "Name": "Shaper Portal",
+        "PreviewUrl": "https://www.youtube.com/watch?v=mfxsDaeqOF0",
+        "IconPath": "pack://application:,,,/Assets/Portal/shaperportal.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/shaperportal/rig.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/shaperportal/rig_map.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/shaperportal/rig.ao",
+          "metadata/effects/spells/portal/town_portal.ao"
+        ]
+      },
+      {
+        "Name": "Spirit Portal",
+        "PreviewUrl": "https://www.youtube.com/watch?v=nRop5n0_ppg",
+        "IconPath": "pack://application:,,,/Assets/Portal/spiritportal.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/spirit_realm_portal/bestiary_spirit_portal.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/spirit_realm_portal/bestiary_spirit_portal_map.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/spirit_realm_portal/bestiary_spirit_portal.ao",
+          "metadata/effects/spells/portal/town_portal.ao"
+        ]
+      },
+      {
+        "Name": "Zodiac Dragon Portal",
+        "PreviewUrl": "https://poedb.tw/us/Zodiac_Dragon_Portal_Effect",
+        "IconPath": "pack://application:,,,/Assets/Portal/zodiacdragonportaleffect.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/zodiacdragonportal/zodiacdragonportal.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/zodiacdragonportal/zodiacdragonportal_map.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/zodiacdragonportal/zodiacdragonportal.ao",
+          "metadata/effects/spells/portal/town_portal.ao"
+        ]
+      }
+    ],
+    "Skills": [
+      {
+        "Name": "Illusionist Cyclone",
+        "PreviewUrl": "https://www.youtube.com/watch?v=ckkYzyMhpSw",
+        "IconPath": "pack://application:,,,/Assets/Skill/IllusionistCyclone.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "SKILL_FLEXIBLE",
+          "metadata/effects/microtransactions/spells/illusionist_cyclone/cyclone.ao",
+          "metadata/effects/spells/cyclone/cyclone.ao",
+          "metadata/effects/microtransactions/spells/illusionist_cyclone/cyclone_aoe.ao",
+          "metadata/effects/spells/cyclone/cyclone_aoe.ao",
+          "metadata/effects/microtransactions/spells/illusionist_cyclone/enemy_hit.ao",
+          "metadata/effects/spells/cyclone/enemy_hit.ao",
+          "metadata/effects/microtransactions/spells/illusionist_cyclone/vaal_cyclone.ao",
+          "metadata/effects/spells/cyclone/vaal_cyclone.ao"
+        ]
+      },
+      {
+        "Name": "Celestial Frost Bomb",
+        "PreviewUrl": "https://www.youtube.com/watch?v=7Re3MQa5KuE",
+        "IconPath": "pack://application:,,,/Assets/Skill/CelestialFrostBomb.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "SKILL_FLEXIBLE",
+          "metadata/effects/microtransactions/spells/frost_bomb/frostpulse.ao",
+          "metadata/effects/spells/frost_bomb/frostpulse.ao",
+          "metadata/effects/microtransactions/spells/frost_bomb/ice_crystal.ao",
+          "metadata/effects/spells/frost_bomb/ice_crystal.ao",
+          "metadata/effects/microtransactions/spells/frost_bomb/ice_crystal_loop.ao",
+          "metadata/effects/spells/frost_bomb/ice_crystal_loop.ao",
+          "metadata/effects/microtransactions/spells/frost_bomb/ice_discharge.ao",
+          "metadata/effects/spells/frost_bomb/ice_discharge.ao"
+        ]
+      },
+      {
+        "Name": "Celestial Rain of Arrows",
+        "PreviewUrl": "https://www.youtube.com/watch?v=O8SlQch9asA",
+        "IconPath": "pack://application:,,,/Assets/Skill/CelestialRainOfArrows.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "SKILL_FLEXIBLE",
+          "metadata/effects/microtransactions/spells/rain_of_arrows/celestial/arrow.ao",
+          "metadata/effects/spells/rain_of_arrows/arrow_to_rain.ao",
+          "metadata/effects/microtransactions/spells/rain_of_arrows/celestial/arrow_down.ao",
+          "metadata/effects/spells/rain_of_arrows/rig.ao",
+          "metadata/effects/microtransactions/spells/rain_of_arrows/celestial/arrows_up.ao",
+          "metadata/effects/spells/rain_of_arrows_anim/rig.ao",
+          "metadata/effects/microtransactions/spells/rain_of_arrows/celestial/impact.ao",
+          "metadata/effects/spells/rain_of_arrows_aoe/aoe_orang.ao"
+        ]
+      },
+      {
+        "Name": "Huntsman Immortal Call",
+        "PreviewUrl": "https://www.youtube.com/watch?v=hBjhEqj8Rd8",
+        "IconPath": "pack://application:,,,/Assets/Skill/HuntsmanImmortalCall.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "SKILL_FLEXIBLE",
+          "metadata/effects/microtransactions/spells/immortalcall/huntsman/buff.ao",
+          "metadata/effects/spells/immortal_call/immortal_call_buff.ao",
+          "metadata/effects/microtransactions/spells/immortalcall/huntsman/start.ao",
+          "metadata/effects/spells/immortal_call/rig.ao",
+          "metadata/effects/microtransactions/spells/immortalcall/huntsman/vaal_start.ao",
+          "metadata/effects/spells/immortal_call/vaal_rig.ao"
+        ]
+      },
+      {
+        "Name": "Dark Immortal Call",
+        "PreviewUrl": "https://www.youtube.com/watch?v=Umzl9X9YxWA",
+        "IconPath": "pack://application:,,,/Assets/Skill/DarkImmortalCall.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "SKILL_FLEXIBLE",
+          "metadata/effects/microtransactions/spells/immortalcall/dark_immortalcall_buff.ao",
+          "metadata/effects/spells/immortal_call/immortal_call_buff.ao",
+          "metadata/effects/microtransactions/spells/immortalcall/dark_immortalcall.ao",
+          "metadata/effects/spells/immortal_call/rig.ao",
+          "metadata/effects/microtransactions/spells/immortalcall/dark_vaalimmortalcall.ao",
+          "metadata/effects/spells/immortal_call/vaal_rig.ao"
+        ]
+      },
+      {
+        "Name": "Glimmerwood Sunder",
+        "PreviewUrl": "https://www.youtube.com/watch?v=jmWrkXDGwf4",
+        "IconPath": "pack://application:,,,/Assets/Skill/GlimmerwoodSunderEffect.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "SKILL_FLEXIBLE",
+          "metadata/effects/microtransactions/spells/glimmerwood_sunder/cascade.ao",
+          "metadata/effects/spells/shockwave_slam_03/cascade.ao",
+          "metadata/effects/spells/glimmerwood_sunder/pulse.ao",
+          "metadata/effects/spells/shockwave_slam_03/pulse.ao",
+          "metadata/effects/spells/glimmerwood_sunder/shockwave_start.ao",
+          "metadata/effects/spells/shockwave_slam_03/shockwave_start.ao",
+          "metadata/effects/microtransactions/spells/glimmerwood_sunder/ao_fistofwar/cascade.ao",
+          "metadata/effects/spells/slam_support/sunder/cascade.ao",
+          "metadata/effects/microtransactions/spells/glimmerwood_sunder/ao_fistofwar/pulse.ao",
+          "metadata/effects/spells/slam_support/sunder/pulse.ao",
+          "metadata/effects/microtransactions/spells/glimmerwood_sunder/ao_fistofwar/shockwave_start.ao",
+          "metadata/effects/spells/slam_support/sunder/shockwave_start.ao"
+        ]
+      },
+      {
+        "Name": "Stars Ethereal Knives",
+        "PreviewUrl": "https://www.youtube.com/watch?v=DR1CT64krTw",
+        "IconPath": "pack://application:,,,/Assets/Skill/EtherealStars.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "SKILL_FLEXIBLE",
+          "metadata/effects/microtransactions/spells/ninja_shotgun/stars/proj_new.ao",
+          "metadata/effects/spells/bladeburst/ethereal_knife_proj.ao",
+          "metadata/effects/microtransactions/spells/ninja_shotgun/stars/proj_stuck.ao",
+          "metadata/effects/spells/bladeburst/ethereal_knife_stuck.ao"
+        ]
+      },
+      {
+        "Name": "Illusionist Ethereal Knives",
+        "PreviewUrl": "https://www.youtube.com/watch?v=pEWFUbXVXk0",
+        "IconPath": "pack://application:,,,/Assets/Skill/IllusionistEtherealKnives.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "SKILL_FLEXIBLE",
+          "metadata/effects/microtransactions/spells/ethereal_knives_glass/ethereal_knife_proj.ao",
+          "metadata/effects/spells/bladeburst/ethereal_knife_proj.ao",
+          "metadata/effects/microtransactions/spells/ethereal_knives_glass/ethereal_knife_stuck.ao",
+          "metadata/effects/spells/bladeburst/ethereal_knife_stuck.ao"
+        ]
+      },
+      {
+        "Name": "Siren Flame Dash",
+        "PreviewUrl": "https://www.youtube.com/watch?v=LGCfMH0dNIA",
+        "IconPath": "pack://application:,,,/Assets/Skill/SirenFlamedashEffect.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "SKILL_FLEXIBLE",
+          "metadata/effects/microtransactions/spells/flame_dash/siren/flamedash_siren.ao",
+          "metadata/effects/spells/flame_dash/flame_dash.ao"
+        ]
+      },
+      {
+        "Name": "Black Hole Frostbolt",
+        "PreviewUrl": "https://www.youtube.com/watch?v=KASLqCFhCuE",
+        "IconPath": "pack://application:,,,/Assets/Skill/BlackholeFrostbolt.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "SKILL_FLEXIBLE",
+          "metadata/effects/microtransactions/spells/frost_bolt/explosion.ao",
+          "metadata/effects/spells/frost_bolt/explosion.ao",
+          "metadata/effects/microtransactions/spells/frost_bolt/maelstrom.ao",
+          "metadata/effects/spells/frost_bolt/maelstrom.ao",
+          "metadata/effects/microtransactions/spells/frost_bolt/nova.ao",
+          "metadata/effects/spells/frost_bolt/nova.ao",
+          "metadata/effects/microtransactions/spells/frost_bolt/projectile.ao",
+          "metadata/effects/spells/frost_bolt/projectile.ao",
+          "metadata/effects/microtransactions/spells/frost_bolt/projectile_hit.ao",
+          "metadata/effects/spells/frost_bolt/projectile_hit.ao"
+        ]
+      },
+      {
+        "Name": "Celestial Cat Soulrend",
+        "PreviewUrl": "https://www.youtube.com/watch?v=HhyGS7Cyi3M",
+        "IconPath": "pack://application:,,,/Assets/Skill/CelestialCatSoulrend.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "SKILL_FLEXIBLE",
+          "metadata/effects/microtransactions/spells/soulrend/cat/rig.ao",
+          "metadata/effects/spells/soulrend/rig.ao",
+          "metadata/effects/microtransactions/spells/soulrend/cat/soul_beam.ao",
+          "metadata/effects/spells/soulrend/soul_beam.ao",
+          "metadata/effects/microtransactions/spells/soulrend/cat/soul_debuff.ao",
+          "metadata/effects/spells/soulrend/soul_debuff.ao",
+          "metadata/effects/microtransactions/spells/soulrend/cat/soul_impact.ao",
+          "metadata/effects/spells/soulrend/soul_impact.ao"
+        ]
+      },
+      {
+        "Name": "Celestial Contagion",
+        "PreviewUrl": "https://www.youtube.com/watch?v=2Jp3pNeCRko",
+        "IconPath": "pack://application:,,,/Assets/Skill/CelestialContagion.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "SKILL_FLEXIBLE",
+          "metadata/effects/microtransactions/spells/contagion_celestial/affected.epk",
+          "metadata/effects/spells/contagion/contagion_buff.epk",
+          "metadata/effects/microtransactions/spells/contagion_celestial/aoe_main.ao",
+          "metadata/effects/spells/contagion/contagion_main.ao",
+          "metadata/effects/microtransactions/spells/contagion_celestial/aoe_small.ao",
+          "metadata/effects/spells/contagion/contagion_sml.ao"
+        ]
+      },
+      {
+        "Name": "Celestial Ball Lightning",
+        "PreviewUrl": "https://www.youtube.com/watch?v=frIkZR7VlEU",
+        "IconPath": "pack://application:,,,/Assets/Skill/CelestialBallLightning.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "SKILL_FLEXIBLE",
+          "metadata/effects/microtransactions/spells/ball_lightning/celestial/celestial_lightning_bolt.ao",
+          "metadata/effects/spells/lightning_orb/lightning_bolt.ao",
+          "metadata/effects/microtransactions/spells/ball_lightning/celestial/celestial_lightning_orb.ao",
+          "metadata/effects/spells/lightning_orb/lightning_orb_orb.ao"
+        ]
+      },
+      {
+        "Name": "Celestial Ice Nova",
+        "PreviewUrl": "https://www.youtube.com/watch?v=EYGmwArnzOw",
+        "IconPath": "pack://application:,,,/Assets/Skill/CelestialIceNova.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "SKILL_FLEXIBLE",
+          "metadata/effects/microtransactions/spells/celestial_ice_nova/celestial_ice_nova.ao",
+          "metadata/effects/spells/icenova_03/ice_nova.ao",
+          "metadata/effects/microtransactions/spells/celestial_ice_nova/celestial_ice_nova.ao",
+          "metadata/effects/spells/icenova_03/ice_nova_vaal.ao"
+        ]
+      },
+      {
+        "Name": "Ebony Tornado Shot",
+        "PreviewUrl": "https://www.youtube.com/watch?v=EqNEzWsmrkc",
+        "IconPath": "pack://application:,,,/Assets/Skill/EbonyTornadoShot.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "SKILL_FLEXIBLE",
+          "metadata/effects/microtransactions/spells/tornado_shot/second_arrow.ao",
+          "metadata/effects/spells/tornado_shot/second_arrow.ao",
+          "metadata/effects/microtransactions/spells/tornado_shot/tornadoarrow.ao",
+          "metadata/effects/spells/tornado_shot/tornadoarrow_optimized.ao",
+          "metadata/effects/microtransactions/spells/tornado_shot/trailtornado.ao",
+          "metadata/effects/spells/tornado_shot/trailtornado.ao"
+        ]
+      },
+      {
+        "Name": "Void Emperor Summon Skitterbots",
+        "PreviewUrl": "https://www.youtube.com/watch?v=MJKlAyvmmnI",
+        "IconPath": "pack://application:,,,/Assets/Skill/VoidEmperorSummonSkitterbots.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "SKILL_FLEXIBLE",
+          "metadata/effects/microtransactions/spells/skitterbots_fx/void_bot.ao",
+          "metadata/monsters/skitterbot/skitterbot.ao",
+          "metadata/effects/microtransactions/spells/skitterbots_fx/voidbot_ice.ao",
+          "metadata/monsters/skitterbot/skitterbotcold.ao",
+          "metadata/effects/microtransactions/spells/skitterbots_fx/voidbot_lightning.ao",
+          "metadata/monsters/skitterbot/skitterbotlightning.ao"
+        ]
+      },
+      {
+        "Name": "Celestial Herald",
+        "PreviewUrl": "https://www.youtube.com/watch?v=Y0l_k-dP3YI",
+        "IconPath": "pack://application:,,,/Assets/Skill/CelestialHerald.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "SKILL_FLEXIBLE",
+          "metadata/effects/microtransactions/spells/heralds/celestial/fire_explode.ao",
+          "metadata/effects/spells/herald/fire/flameherald_explode.ao",
+          "metadata/effects/microtransactions/spells/heralds/celestial/ice_explode.ao",
+          "metadata/effects/spells/herald/ice/iceherald_explode.ao",
+          "metadata/effects/microtransactions/spells/heralds/celestial/lightning_strike.ao",
+          "metadata/effects/spells/herald/lightning/lightning_strike_herald.ao"
+        ]
+      },
+      {
+        "Name": "Automaton Herald",
+        "PreviewUrl": "https://www.youtube.com/watch?v=955aB4xCNDs",
+        "IconPath": "pack://application:,,,/Assets/Skill/AutomatonHerald.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "SKILL_FLEXIBLE",
+          "metadata/effects/microtransactions/spells/heralds/machine/fire_explode.ao",
+          "metadata/effects/spells/herald/fire/flameherald_explode.ao",
+          "metadata/effects/microtransactions/spells/heralds/machine/ice_explode.ao",
+          "metadata/effects/spells/herald/ice/iceherald_explode.ao",
+          "metadata/effects/microtransactions/spells/heralds/machine/lightning_strike.ao",
+          "metadata/effects/spells/herald/lightning/lightning_strike_herald.ao"
+        ]
+      },
+      {
+        "Name": "Night Lotus Toxic Rain",
+        "PreviewUrl": "https://www.youtube.com/watch?v=RnJcMX3BxM4",
+        "IconPath": "pack://application:,,,/Assets/Skill/NightLotusToxicRain.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "ASSET_FOLDER_REPLACE",
+          ".Assets.Replace.Spells.NightLotusToxicRain.",
+          "metadata/effects/spells/rain_of_spores"
+        ]
+      },
+      {
+        "Name": "Celestial Penance Brand",
+        "PreviewUrl": "https://www.youtube.com/watch?v=A1MLm_R__8Q",
+        "IconPath": "pack://application:,,,/Assets/Skill/CelestialPenanceBrand.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "ASSET_FOLDER_REPLACE",
+          ".Assets.Replace.Spells.PenanceBrand.",
+          "metadata/effects/spells/conduit_sigil/phys_lightning"
+        ]
+      },
+      {
+        "Name": "Transcendence Righteous Fire",
+        "PreviewUrl": "https://www.youtube.com/watch?v=IqtwG4PLEvE",
+        "IconPath": "pack://application:,,,/Assets/Skill/TranscendenceRighteousFireSkillEffect.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "SKILL_FLEXIBLE",
+          "metadata/effects/microtransactions/spells/ri_fire/transcendence/bot.ao",
+          "metadata/effects/spells/ri_fire/bot_02.ao",
+          "metadata/effects/microtransactions/spells/ri_fire/transcendence/rifire.ao",
+          "metadata/effects/spells/ri_fire/rifire.ao",
+          "metadata/effects/microtransactions/spells/ri_fire/transcendence/surge.ao",
+          "metadata/effects/spells/ri_fire/hands.ao"
+        ]
+      }
+    ]
+  },
+  "Poe2": {
+    "Pets": [
+      {
+        "Name": "Eternal Rhoa Pet",
+        "PreviewUrl": "https://www.youtube.com/watch?v=GVjmIAmERjM",
+        "IconPath": "pack://application:,,,/Assets/Pet/Eternal_Rhoa_Pet.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PET_FLEXIBLE",
+          "metadata/pet/babyrhoaflying/babyrhoaflying.act",
+          "metadata/pet/weta/basic.act",
+          "metadata/pet/babyrhoaflying/babyrhoaflying.ao",
+          "metadata/pet/weta/basic.ao",
+          "metadata/pet/babyrhoaflying/babyrhoaflying.aoc",
+          "metadata/pet/weta/basic.aoc",
+          "metadata/pet/babyrhoaflying/babyrhoaflying.ot",
+          "metadata/pet/weta/basic.ot",
+          "metadata/pet/babyrhoaflying/babyrhoaflying.otc",
+          "metadata/pet/weta/basic.otc"
+        ]
+      },
+      {
+        "Name": "Celestial Turtle Pet",
+        "PreviewUrl": "https://www.youtube.com/watch?v=AJSjOp7k6KE",
+        "IconPath": "pack://application:,,,/Assets/Pet/Celestial_Turtle.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PET_FLEXIBLE",
+          "metadata/pet/celestialturtle/celestialturtle.act",
+          "metadata/pet/weta/basic.act",
+          "metadata/pet/celestialturtle/celestialturtle.ao",
+          "metadata/pet/weta/basic.ao",
+          "metadata/pet/celestialturtle/celestialturtle.aoc",
+          "metadata/pet/weta/basic.aoc",
+          "metadata/pet/celestialturtle/celestialturtle.ot",
+          "metadata/pet/weta/basic.ot",
+          "metadata/pet/celestialturtle/celestialturtle.otc",
+          "metadata/pet/weta/basic.otc"
+        ]
+      },
+      {
+        "Name": "Divergence Predator Pet",
+        "PreviewUrl": "https://www.youtube.com/watch?v=X70f1gw5pB8",
+        "IconPath": "pack://application:,,,/Assets/Pet/DivergencePredatorPet.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PET_FLEXIBLE",
+          "metadata/pet/divergenceanglerfish/divergenceanglerfish.act",
+          "metadata/pet/weta/basic.act",
+          "metadata/pet/divergenceanglerfish/divergenceanglerfish.ao",
+          "metadata/pet/weta/basic.ao",
+          "metadata/pet/divergenceanglerfish/divergenceanglerfish.aoc",
+          "metadata/pet/weta/basic.aoc",
+          "metadata/pet/divergenceanglerfish/divergenceanglerfish.ot",
+          "metadata/pet/weta/basic.ot",
+          "metadata/pet/divergenceanglerfish/divergenceanglerfish.otc",
+          "metadata/pet/weta/basic.otc"
+        ]
+      },
+      {
+        "Name": "Sunrise Wolf Pet",
+        "PreviewUrl": "https://www.youtube.com/watch?v=DCUEUWgK3rI",
+        "IconPath": "pack://application:,,,/Assets/Pet/SunriseWolfPet.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PET_FLEXIBLE",
+          "metadata/pet/wolf/sunrisewolf.act",
+          "metadata/pet/weta/basic.act",
+          "metadata/pet/wolf/sunrisewolf.ao",
+          "metadata/pet/weta/basic.ao",
+          "metadata/pet/wolf/sunrisewolf.aoc",
+          "metadata/pet/weta/basic.aoc",
+          "metadata/pet/wolf/sunrisewolf.ot",
+          "metadata/pet/weta/basic.ot",
+          "metadata/pet/wolf/sunrisewolf.otc",
+          "metadata/pet/weta/basic.otc"
+        ]
+      },
+      {
+        "Name": "Celestial Cat Pet",
+        "PreviewUrl": "https://www.youtube.com/watch?v=w-kx0zWsykM",
+        "IconPath": "pack://application:,,,/Assets/Pet/CelestialCat.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PET_FLEXIBLE",
+          "metadata/pet/cat/celestial.act",
+          "metadata/pet/weta/basic.act",
+          "metadata/pet/cat/celestial.ao",
+          "metadata/pet/weta/basic.ao",
+          "metadata/pet/cat/celestial.aoc",
+          "metadata/pet/weta/basic.aoc",
+          "metadata/pet/cat/celestial.ot",
+          "metadata/pet/weta/basic.ot",
+          "metadata/pet/cat/celestial.otc",
+          "metadata/pet/weta/basic.otc"
+        ]
+      },
+      {
+        "Name": "Nightfall Dragon Pet",
+        "PreviewUrl": "https://www.youtube.com/watch?v=kSjKGCoSFv8",
+        "IconPath": "pack://application:,,,/Assets/Pet/NightfallDragonPet.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PET_FLEXIBLE",
+          "metadata/pet/dragon/twilightnightfalldragonpremium.act",
+          "metadata/pet/weta/basic.act",
+          "metadata/pet/dragon/twilightnightfalldragonpremium.ao",
+          "metadata/pet/weta/basic.ao",
+          "metadata/pet/dragon/twilightnightfalldragonpremium.aoc",
+          "metadata/pet/weta/basic.aoc",
+          "metadata/pet/dragon/twilightnightfalldragonpremium.ot",
+          "metadata/pet/weta/basic.ot",
+          "metadata/pet/dragon/twilightnightfalldragonpremium.otc",
+          "metadata/pet/weta/basic.otc"
+        ]
+      },
+      {
+        "Name": "Stygian Steed Pet",
+        "PreviewUrl": "https://www.youtube.com/watch?v=L-hoQCwBXfo",
+        "IconPath": "pack://application:,,,/Assets/Pet/StygianSteed.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PET_FLEXIBLE",
+          "metadata/pet/stygiansteed/stygiansteedpet.act",
+          "metadata/pet/weta/basic.act",
+          "metadata/pet/stygiansteed/stygiansteedpet.ao",
+          "metadata/pet/weta/basic.ao",
+          "metadata/pet/stygiansteed/stygiansteedpet.aoc",
+          "metadata/pet/weta/basic.aoc",
+          "metadata/pet/stygiansteed/stygiansteedpet.ot",
+          "metadata/pet/weta/basic.ot",
+          "metadata/pet/stygiansteed/stygiansteedpet.otc",
+          "metadata/pet/weta/basic.otc"
+        ]
+      },
+      {
+        "Name": "Hell Horse Pet",
+        "PreviewUrl": "https://www.youtube.com/watch?v=aU9-b32g-oo",
+        "IconPath": "pack://application:,,,/Assets/Pet/DemonicSteedPet.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PET_FLEXIBLE",
+          "metadata/pet/stygiansteed/hellsteedpet.act",
+          "metadata/pet/weta/basic.act",
+          "metadata/pet/stygiansteed/hellsteedpet.ao",
+          "metadata/pet/weta/basic.ao",
+          "metadata/pet/stygiansteed/hellsteedpet.aoc",
+          "metadata/pet/weta/basic.aoc",
+          "metadata/pet/stygiansteed/hellsteedpet.ot",
+          "metadata/pet/weta/basic.ot",
+          "metadata/pet/stygiansteed/hellsteedpet.otc",
+          "metadata/pet/weta/basic.otc"
+        ]
+      },
+      {
+        "Name": "Corsair Monkey Pet",
+        "PreviewUrl": "https://www.youtube.com/watch?v=0WpkFSUJCcw",
+        "IconPath": "pack://application:,,,/Assets/Pet/CorsairPet.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PET_FLEXIBLE",
+          "metadata/pet/corsairpet/corsairpet.act",
+          "metadata/pet/weta/basic.act",
+          "metadata/pet/corsairpet/corsairpet.ao",
+          "metadata/pet/weta/basic.ao",
+          "metadata/pet/corsairpet/corsairpet.aoc",
+          "metadata/pet/weta/basic.aoc",
+          "metadata/pet/corsairpet/corsairpet.ot",
+          "metadata/pet/weta/basic.ot",
+          "metadata/pet/corsairpet/corsairpet.otc",
+          "metadata/pet/weta/basic.otc"
+        ]
+      },
+      {
+        "Name": "Chimeral Pet",
+        "PreviewUrl": "https://www.youtube.com/watch?v=Wf4qh3iCKz0&t=18s",
+        "IconPath": "pack://application:,,,/Assets/Pet/ChimeraPet.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PET_FLEXIBLE",
+          "metadata/pet/babychimera/babychimera.act",
+          "metadata/pet/weta/basic.act",
+          "metadata/pet/babychimera/babychimera.ao",
+          "metadata/pet/weta/basic.ao",
+          "metadata/pet/babychimera/babychimera.aoc",
+          "metadata/pet/weta/basic.aoc",
+          "metadata/pet/babychimera/babychimera.ot",
+          "metadata/pet/weta/basic.ot",
+          "metadata/pet/babychimera/babychimera.otc",
+          "metadata/pet/weta/basic.otc"
+        ]
+      },
+      {
+        "Name": "Jingwei Premium Pet",
+        "PreviewUrl": "https://poedb.tw/us/Jingwei_Premium_Pet",
+        "IconPath": "pack://application:,,,/Assets/Pet/JingweiCrane.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PET_FLEXIBLE",
+          "metadata/pet/jingweicrane/jingweicrane.act",
+          "metadata/pet/weta/basic.act",
+          "metadata/pet/jingweicrane/jingweicrane.ao",
+          "metadata/pet/weta/basic.ao",
+          "metadata/pet/jingweicrane/jingweicrane.aoc",
+          "metadata/pet/weta/basic.aoc",
+          "metadata/pet/jingweicrane/jingweicrane.ot",
+          "metadata/pet/weta/basic.ot",
+          "metadata/pet/jingweicrane/jingweicrane.otc",
+          "metadata/pet/weta/basic.otc"
+        ]
+      }
+    ],
+    "Portals": [
+      {
+        "Name": "Jellyfish Portal",
+        "PreviewUrl": "https://www.youtube.com/watch?v=MX8p0X0wH1w",
+        "IconPath": "pack://application:,,,/Assets/Portal/Jellyfish_Portal.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/jellyfishportal/jellyfishportal.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/jellyfishportal/jellyfishportal.aoc",
+          "metadata/effects/spells/portal/portal2.aoc",
+          "metadata/effects/microtransactions/town_portals/jellyfishportal/jellyfishportal_map.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/jellyfishportal/jellyfishportal_map.aoc",
+          "metadata/effects/spells/portal/portal2maproom.aoc",
+          "metadata/effects/microtransactions/town_portals/jellyfishportal/jellyfishportal.ao",
+          "metadata/effects/spells/portal/town_portal.ao",
+          "metadata/effects/microtransactions/town_portals/jellyfishportal/jellyfishportal.aoc",
+          "metadata/effects/spells/portal/town_portal.aoc"
+        ]
+      },
+      {
+        "Name": "Kaom Portal",
+        "PreviewUrl": "https://www.youtube.com/watch?v=LG08nRWK-9w",
+        "IconPath": "pack://application:,,,/Assets/Portal/KaomPortal.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/kaomportal/kaomportal.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/kaomportal/kaomportal.aoc",
+          "metadata/effects/spells/portal/portal2.aoc",
+          "metadata/effects/microtransactions/town_portals/kaomportal/kaomportal.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/kaomportal/kaomportal.aoc",
+          "metadata/effects/spells/portal/portal2maproom.aoc",
+          "metadata/effects/microtransactions/town_portals/kaomportal/kaomportal.ao",
+          "metadata/effects/spells/portal/town_portal.ao",
+          "metadata/effects/microtransactions/town_portals/kaomportal/kaomportal.aoc",
+          "metadata/effects/spells/portal/town_portal.aoc"
+        ]
+      },
+      {
+        "Name": "Window to Twilight Portal",
+        "PreviewUrl": "https://www.youtube.com/watch?v=_7djuncYWqk&t=376s",
+        "IconPath": "pack://application:,,,/Assets/Portal/TwilightWindowPortal.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/twilightwindowportal/twilightwindowportal_map.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/twilightwindowportal/twilightwindowportal_map.aoc",
+          "metadata/effects/spells/portal/portal2.aoc",
+          "metadata/effects/microtransactions/town_portals/twilightwindowportal/twilightwindowportal_map.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/twilightwindowportal/twilightwindowportal_map.aoc",
+          "metadata/effects/spells/portal/portal2maproom.aoc",
+          "metadata/effects/microtransactions/town_portals/twilightwindowportal/twilightwindowportal_map.ao",
+          "metadata/effects/spells/portal/town_portal.ao",
+          "metadata/effects/microtransactions/town_portals/twilightwindowportal/twilightwindowportal_map.aoc",
+          "metadata/effects/spells/portal/town_portal.aoc"
+        ]
+      },
+      {
+        "Name": "Albino Toad King Portal",
+        "PreviewUrl": "https://www.youtube.com/watch?v=XH-QeA28Fg8",
+        "IconPath": "pack://application:,,,/Assets/Portal/AlbinoToadKingPortal.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/gianttoadportal/albino_gianttoadportal.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/gianttoadportal/albino_gianttoadportal.aoc",
+          "metadata/effects/spells/portal/portal2.aoc",
+          "metadata/effects/microtransactions/town_portals/gianttoadportal/albino_gianttoadportal.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/gianttoadportal/albino_gianttoadportal.aoc",
+          "metadata/effects/spells/portal/portal2maproom.aoc",
+          "metadata/effects/microtransactions/town_portals/gianttoadportal/albino_gianttoadportal.ao",
+          "metadata/effects/spells/portal/town_portal.ao",
+          "metadata/effects/microtransactions/town_portals/gianttoadportal/albino_gianttoadportal.aoc",
+          "metadata/effects/spells/portal/town_portal.aoc"
+        ]
+      },
+      {
+        "Name": "Incarnation of Dread Portal",
+        "PreviewUrl": "https://www.youtube.com/watch?v=mr6Gb6XR76w&t=32s",
+        "IconPath": "pack://application:,,,/Assets/Portal/IncarnationofDreadPortal.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/incarnationofdreadportal/incarnationofdreadportal.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/incarnationofdreadportal/incarnationofdreadportal.aoc",
+          "metadata/effects/spells/portal/portal2.aoc",
+          "metadata/effects/microtransactions/town_portals/incarnationofdreadportal/incarnationofdreadportal.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/incarnationofdreadportal/incarnationofdreadportal.aoc",
+          "metadata/effects/spells/portal/portal2maproom.aoc",
+          "metadata/effects/microtransactions/town_portals/incarnationofdreadportal/incarnationofdreadportal.ao",
+          "metadata/effects/spells/portal/town_portal.ao",
+          "metadata/effects/microtransactions/town_portals/incarnationofdreadportal/incarnationofdreadportal.aoc",
+          "metadata/effects/spells/portal/town_portal.aoc"
+        ]
+      },
+      {
+        "Name": "Pandemonium Portal",
+        "PreviewUrl": "https://www.youtube.com/watch?v=acKH154w6ag",
+        "IconPath": "pack://application:,,,/Assets/Portal/PandemoniumPortal.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/PandemoniumMergedPortal/PandemoniumMergedPortal.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/PandemoniumMergedPortal/PandemoniumMergedPortal.aoc",
+          "metadata/effects/spells/portal/portal2.aoc",
+          "metadata/effects/microtransactions/town_portals/PandemoniumMergedPortal/PandemoniumMergedPortal.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/PandemoniumMergedPortal/PandemoniumMergedPortal.aoc",
+          "metadata/effects/spells/portal/portal2maproom.aoc",
+          "metadata/effects/microtransactions/town_portals/PandemoniumMergedPortal/PandemoniumMergedPortal.ao",
+          "metadata/effects/spells/portal/town_portal.ao",
+          "metadata/effects/microtransactions/town_portals/PandemoniumMergedPortal/PandemoniumMergedPortal.aoc",
+          "metadata/effects/spells/portal/town_portal.aoc"
+        ]
+      },
+      {
+        "Name": "Maven Portal",
+        "PreviewUrl": "https://www.youtube.com/watch?v=4aBpYEEgJig",
+        "IconPath": "pack://application:,,,/Assets/Portal/MavenPortalEffect.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/mavenportal/mavenportal.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/mavenportal/mavenportal.aoc",
+          "metadata/effects/spells/portal/portal2.aoc",
+          "metadata/effects/microtransactions/town_portals/mavenportal/mavenportal.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/mavenportal/mavenportal.aoc",
+          "metadata/effects/spells/portal/portal2maproom.aoc",
+          "metadata/effects/microtransactions/town_portals/mavenportal/mavenportal.ao",
+          "metadata/effects/spells/portal/town_portal.ao",
+          "metadata/effects/microtransactions/town_portals/mavenportal/mavenportal.aoc",
+          "metadata/effects/spells/portal/town_portal.aoc"
+        ]
+      },
+      {
+        "Name": "Bestiary Portal",
+        "PreviewUrl": "https://www.youtube.com/watch?v=J0v6IAnWvPk&t=17s",
+        "IconPath": "pack://application:,,,/Assets/Portal/bestiaryportal.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/bestiaryportal/rig.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/bestiaryportal/rig.aoc",
+          "metadata/effects/spells/portal/portal2.aoc",
+          "metadata/effects/microtransactions/town_portals/bestiaryportal/rig_map.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/bestiaryportal/rig_map.aoc",
+          "metadata/effects/spells/portal/portal2maproom.aoc",
+          "metadata/effects/microtransactions/town_portals/bestiaryportal/rig.ao",
+          "metadata/effects/spells/portal/town_portal.ao",
+          "metadata/effects/microtransactions/town_portals/bestiaryportal/rig.aoc",
+          "metadata/effects/spells/portal/town_portal.aoc"
+        ]
+      },
+      {
+        "Name": "Atlantis Portal",
+        "PreviewUrl": "https://www.youtube.com/watch?v=fTMSmErqqtM",
+        "IconPath": "pack://application:,,,/Assets/Portal/atlantisportaleffect.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/atlantisportal/atlantisportal.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/atlantisportal/atlantisportal.aoc",
+          "metadata/effects/spells/portal/portal2.aoc",
+          "metadata/effects/microtransactions/town_portals/atlantisportal/atlantisportal_map.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/atlantisportal/atlantisportal_map.aoc",
+          "metadata/effects/spells/portal/portal2maproom.aoc",
+          "metadata/effects/microtransactions/town_portals/atlantisportal/atlantisportal.ao",
+          "metadata/effects/spells/portal/town_portal.ao",
+          "metadata/effects/microtransactions/town_portals/atlantisportal/atlantisportal.aoc",
+          "metadata/effects/spells/portal/town_portal.aoc"
+        ]
+      },
+      {
+        "Name": "Breachlord Portal",
+        "PreviewUrl": "https://www.youtube.com/watch?v=EatCgsWKNCM&t=16s",
+        "IconPath": "pack://application:,,,/Assets/Portal/breachsupporterportal.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/breachsupporterportal/rig.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/breachsupporterportal/rig.aoc",
+          "metadata/effects/spells/portal/portal2.aoc",
+          "metadata/effects/microtransactions/town_portals/breachsupporterportal/rig_map.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/breachsupporterportal/rig_map.aoc",
+          "metadata/effects/spells/portal/portal2maproom.aoc",
+          "metadata/effects/microtransactions/town_portals/breachsupporterportal/rig.ao",
+          "metadata/effects/spells/portal/town_portal.ao",
+          "metadata/effects/microtransactions/town_portals/breachsupporterportal/rig.aoc",
+          "metadata/effects/spells/portal/town_portal.aoc"
+        ]
+      },
+      {
+        "Name": "Delve Core Portal",
+        "PreviewUrl": "https://www.youtube.com/watch?v=JJ2SnIrickY&t=15s",
+        "IconPath": "pack://application:,,,/Assets/Portal/coredelveportaleffect.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/delveportal/rig.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/delveportal/rig.aoc",
+          "metadata/effects/spells/portal/portal2.aoc",
+          "metadata/effects/microtransactions/town_portals/delveportal/rig_map.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/delveportal/rig_map.aoc",
+          "metadata/effects/spells/portal/portal2maproom.aoc",
+          "metadata/effects/microtransactions/town_portals/delveportal/rig.ao",
+          "metadata/effects/spells/portal/town_portal.ao",
+          "metadata/effects/microtransactions/town_portals/delveportal/rig.aoc",
+          "metadata/effects/spells/portal/town_portal.aoc"
+        ]
+      },
+      {
+        "Name": "Crucible Forge Portal",
+        "PreviewUrl": "https://www.youtube.com/watch?v=9ljwpAr6aAk",
+        "IconPath": "pack://application:,,,/Assets/Portal/crucibleportaleffect.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/cruciblefountain_portal/cruciblefountainportal.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/cruciblefountain_portal/cruciblefountainportal.aoc",
+          "metadata/effects/spells/portal/portal2.aoc",
+          "metadata/effects/microtransactions/town_portals/cruciblefountain_portal/cruciblefountainportal_map.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/cruciblefountain_portal/cruciblefountainportal_map.aoc",
+          "metadata/effects/spells/portal/portal2maproom.aoc",
+          "metadata/effects/microtransactions/town_portals/cruciblefountain_portal/cruciblefountainportal.ao",
+          "metadata/effects/spells/portal/town_portal.ao",
+          "metadata/effects/microtransactions/town_portals/cruciblefountain_portal/cruciblefountainportal.aoc",
+          "metadata/effects/spells/portal/town_portal.aoc"
+        ]
+      },
+      {
+        "Name": "Jingwei Portal",
+        "PreviewUrl": "https://poedb.tw/us/Jingwei_Portal_Effect",
+        "IconPath": "pack://application:,,,/Assets/Portal/jingweiportal.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/jingweiportal/jingweiportal.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/jingweiportal/jingweiportal.aoc",
+          "metadata/effects/spells/portal/portal2.aoc",
+          "metadata/effects/microtransactions/town_portals/jingweiportal/jingweiportal_map.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/jingweiportal/jingweiportal_map.aoc",
+          "metadata/effects/spells/portal/portal2maproom.aoc",
+          "metadata/effects/microtransactions/town_portals/jingweiportal/jingweiportal.ao",
+          "metadata/effects/spells/portal/town_portal.ao",
+          "metadata/effects/microtransactions/town_portals/jingweiportal/jingweiportal.aoc",
+          "metadata/effects/spells/portal/town_portal.aoc"
+        ]
+      },
+      {
+        "Name": "Shaper Portal",
+        "PreviewUrl": "https://www.youtube.com/watch?v=mfxsDaeqOF0",
+        "IconPath": "pack://application:,,,/Assets/Portal/shaperportal.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/shaperportal/rig.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/shaperportal/rig.aoc",
+          "metadata/effects/spells/portal/portal2.aoc",
+          "metadata/effects/microtransactions/town_portals/shaperportal/rig_map.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/shaperportal/rig_map.aoc",
+          "metadata/effects/spells/portal/portal2maproom.aoc",
+          "metadata/effects/microtransactions/town_portals/shaperportal/rig.ao",
+          "metadata/effects/spells/portal/town_portal.ao",
+          "metadata/effects/microtransactions/town_portals/shaperportal/rig.aoc",
+          "metadata/effects/spells/portal/town_portal.aoc"
+        ]
+      },
+      {
+        "Name": "Spirit Portal",
+        "PreviewUrl": "https://www.youtube.com/watch?v=nRop5n0_ppg",
+        "IconPath": "pack://application:,,,/Assets/Portal/spiritportal.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/spirit_realm_portal/bestiary_spirit_portal.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/spirit_realm_portal/bestiary_spirit_portal.aoc",
+          "metadata/effects/spells/portal/portal2.aoc",
+          "metadata/effects/microtransactions/town_portals/spirit_realm_portal/bestiary_spirit_portal_map.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/spirit_realm_portal/bestiary_spirit_portal_map.aoc",
+          "metadata/effects/spells/portal/portal2maproom.aoc",
+          "metadata/effects/microtransactions/town_portals/spirit_realm_portal/bestiary_spirit_portal.ao",
+          "metadata/effects/spells/portal/town_portal.ao",
+          "metadata/effects/microtransactions/town_portals/spirit_realm_portal/bestiary_spirit_portal.aoc",
+          "metadata/effects/spells/portal/town_portal.aoc"
+        ]
+      },
+      {
+        "Name": "Zodiac Dragon Portal",
+        "PreviewUrl": "https://poedb.tw/us/Zodiac_Dragon_Portal_Effect",
+        "IconPath": "pack://application:,,,/Assets/Portal/zodiacdragonportaleffect.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "PORTAL_FLEXIBLE",
+          "metadata/effects/microtransactions/town_portals/zodiacdragonportal/zodiacdragonportal.ao",
+          "metadata/effects/spells/portal/portal2.ao",
+          "metadata/effects/microtransactions/town_portals/zodiacdragonportal/zodiacdragonportal.aoc",
+          "metadata/effects/spells/portal/portal2.aoc",
+          "metadata/effects/microtransactions/town_portals/zodiacdragonportal/zodiacdragonportal_map.ao",
+          "metadata/effects/spells/portal/portal2maproom.ao",
+          "metadata/effects/microtransactions/town_portals/zodiacdragonportal/zodiacdragonportal_map.aoc",
+          "metadata/effects/spells/portal/portal2maproom.aoc",
+          "metadata/effects/microtransactions/town_portals/zodiacdragonportal/zodiacdragonportal.ao",
+          "metadata/effects/spells/portal/town_portal.ao",
+          "metadata/effects/microtransactions/town_portals/zodiacdragonportal/zodiacdragonportal.aoc",
+          "metadata/effects/spells/portal/town_portal.aoc"
+        ]
+      }
+    ],
+    "Skills": [
+      {
+        "Name": "Celestial Rain of Arrows",
+        "PreviewUrl": "https://www.youtube.com/watch?v=O8SlQch9asA",
+        "IconPath": "pack://application:,,,/Assets/Skill/CelestialRainOfArrows.png",
+        "IsEnabled": false,
+        "InternalPaths": [
+          "SKILL_FLEXIBLE",
+          "metadata/effects/microtransactions/spells/rain_of_arrows/celestial/arrow.ao",
+          "metadata/effects/spells/rain_of_arrows/arrow_to_rain.ao",
+          "metadata/effects/microtransactions/spells/rain_of_arrows/celestial/arrow.aoc",
+          "metadata/effects/spells/rain_of_arrows/arrow_to_rain.aoc",
+          "metadata/effects/microtransactions/spells/rain_of_arrows/celestial/arrow_down.ao",
+          "metadata/effects/spells/rain_of_arrows/rig.ao",
+          "metadata/effects/microtransactions/spells/rain_of_arrows/celestial/arrow_down.aoc",
+          "metadata/effects/spells/rain_of_arrows/rig.aoc",
+          "metadata/effects/microtransactions/spells/rain_of_arrows/celestial/arrows_up.ao",
+          "metadata/effects/spells/rain_of_arrows_anim/rig.ao",
+          "metadata/effects/microtransactions/spells/rain_of_arrows/celestial/arrows_up.aoc",
+          "metadata/effects/spells/rain_of_arrows_anim/rig.aoc",
+          "metadata/effects/microtransactions/spells/rain_of_arrows/celestial/impact.ao",
+          "metadata/effects/spells/rain_of_arrows_aoe/aoe_orang.ao",
+          "metadata/effects/microtransactions/spells/rain_of_arrows/celestial/impact.aoc",
+          "metadata/effects/spells/rain_of_arrows_aoe/aoe_orang.aoc"
+        ]
+      }
+    ]
+  }
+}
