@@ -7,20 +7,22 @@ A community-built WPF tool for modding **Path of Exile 1 & 2** — optimize your
 
 ---
 📸 Screenshots
-<!-- SCREENSHOT: Main window — replace the path below with your actual image -->
-https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/Main%20window%20.png
-Main patch selection screen
-<!-- SCREENSHOT: GGPK Editor — replace the path below with your actual image -->
-https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/VisualGGPK.png
-Built-in Visual GGPK with DDS preview
-<!-- SCREENSHOT: MTX Editor — replace the path below with your actual image -->
-https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/PetReplace.png
-https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/PortalReplace.png
-https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/SkillReplace.png
-MTX replacer — swap pet, portal, and skill visuals
-<!-- SCREENSHOT: Color Mods Editor — replace the path below with your actual image -->
-https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/Mod%20Color.png
-Map mod colorizer — highlight dangerous or loot mods at a glance
+
+![Main Window](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/Main%20window%20.png)
+
+*Main patch selection screen*
+
+![GGPK Browser](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/VisualGGPK.png)
+
+*Built-in GGPK file browser with DDS preview*
+
+![MTX Editor](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/PetReplace.png)
+
+*MTX replacer — swap pet, portal, and skill visuals*
+
+![Color Mods](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/Mod%20Color.png)
+
+*Map mod colorizer — highlight dangerous or loot mods at a glance*
 
 ## ✨ What It Does
 
