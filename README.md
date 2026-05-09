@@ -14,9 +14,11 @@ A community-built WPF tool for modding **Path of Exile 1 & 2** — optimize your
 
 ![GGPK Browser](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/VisualGGPK.png)
 
-*Built-in GGPK file browser with DDS preview*
+*Built-in Visual GGPK file browser with DDS preview*
 
 ![MTX Editor](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/PetReplace.png)
+![MTX Editor](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/PortalReplace.png)
+![MTX Editor](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/SkillReplace.png)
 
 *MTX replacer — swap pet, portal, and skill visuals*
 
