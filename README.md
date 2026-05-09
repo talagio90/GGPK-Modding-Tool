@@ -117,8 +117,6 @@ Path of Exile Modding Tool is designed with recovery in mind:
 ## ⚠️ Disclaimer
 
 This tool modifies local game files for **personal, non-commercial use only**.
-It does not interact with game servers, inject into the game process, or provide any competitive advantage.
-
 Use at your own risk. Always keep backups or use the built-in recovery feature.
 
 ---
