@@ -1,168 +1,203 @@
+# Exile Forge
 
-# ⚡ Exile Forge - Remove POE Effect And More - 100% Free
+A community-built WPF toolkit for customizing and optimizing **Path of Exile 1 & 2**.
 
-A community-built WPF tool for modding **Path of Exile 1 & 2** — optimize your visuals, clean up effects, and get a smoother gameplay experience.
+Improve performance, reduce visual clutter, customize your UI, and streamline your gameplay experience with an easy-to-use desktop interface.
 
-> Built for the community, by someone who plays too much PoE.
+> Built for the community by someone who spends far too many hours in Wraeclast.
 
 ---
-**📸 Screenshots**
 
-**Main patch selection screen**
+# 📸 Screenshots
 
-![Main Window](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/mainwindow.png)
+## 🖥️ Main Patch Selection
 
-**Visual GGPK. Browse, preview, export, edit and replace files inside your game directly.**
+![Main Window](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/mainwindown2.PNG)
 
-**DDS image preview, text file editor, recursive export/replace with search highlight.**
+---
+
+## 🗂️ Visual GGPK Browser (PoE 1 & PoE 2)
+
+Browse, preview, export, edit, and replace files directly inside the game archives.
+
+Features include:
+
+* DDS texture preview
+* Text file editor
+* Recursive export / replace
+* Search highlighting
 
 ![GGPK Browser](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/VisualGGPK.png)
 
-**MTX replacer — swap pet, portal, and skill visuals**
+---
 
-![MTX Editor](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/PetReplace.png)
-![MTX Editor](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/PortalReplace.png)
-![MTX Editor](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/SkillReplace.png)
+## 🎭 MTX Replacer
 
-**Map mod colorizer — highlight dangerous or loot mods at a glance**
+Swap pets, portals, and skill visuals using built-in replacement tools.
 
-![Color Mods](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/Mod%20Color.png)
-
-## ✨ What It Does
-
-Exile Forge Tool lets you apply, manage, and recover game patches directly to your `Content.ggpk` (Standalone) or `_.index.bin` (Steam) file — with a clean UI and zero terminal knowledge required.
-
-### 🎨 Visual & Performance Patches
-- Remove or reduce particle effects, MTX visuals, environmental fog, shadows, and more
-- Zero Particles, Delirium effects, Clean Terrain, Remove MTX
-- Black-screen for botting
-- Support for both POE1 and POE2 patch sets
-
-
-### 🗺️ UI Patches
-- Custom minimap colors & settings
-- Camera zoom control (1.2× – 4.0×)
-- Hide loading screens, show monster life bars, corpse visibility toggle
-
-![Minimap](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/minimap.png)
-
-### 🐾 Beast & Special Encounter Highlights
-- Highlight expensive beasts (Black Morrigan, Craicic Chimeral, Hellion Alpha, and more)
-- Special encounter markers (Nameless Seer, Reflecting Mist, Zana Memories, etc.)
-
-![Beast](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/beast.png)
-
-### 🎭 MTX Replacer
-- Replace Pet, Portal, and Skill MTX visuals with custom assets
-- Flexible file-by-file or full folder replacement
-
-### 🗂️ GGPK Editor
-- Browse, preview, export, and replace files inside your GGPK directly
-- DDS image preview, text file editor, recursive export/replace
-- Search with highlight and debounce
-
-![Recover](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/Visual.png)
-
-### 🔁 Smart Recovery
-- Recovery directly without requiring users to extract any raw data files onto their local drives
-- Automatically connects to the POE server to download the latest updates.
-- The recovery process takes less than 10 seconds.
-
-![Recover](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/recover.PNG)
-
-### 💾 Profile System
-- Separate profiles for POE1 and POE2
-- Saves all patch states, colors, MTX, skills, camera zoom, and GGPK path
-- Auto-loads on startup and when switching games
+![MTX Replacer](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/PortalReplace.png)
 
 ---
 
-## 🔐 License & Access
+## 🗺️ Map Mod Colorizer
 
-This tool uses a **license key system** tied to your hardware (HWID).
+Highlight dangerous or valuable map modifiers at a glance.
 
-- Keys are distributed free via our **Discord server**
-- Join Discord  ➔ Enter HWID ➔ Done (Valid for 30 days, can be renewed).
-
-![Login](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/login.png)
-
-👉 **[Join our Discord](https://discord.gg/77E3ffa547)**
+![Map Mod Colorizer](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/Mod%20Color.png)
 
 ---
 
-## 🚀 Getting Started
+# ✨ Features
 
-1. Download the latest release from the [Releases page](../../releases)
-2. Run `Exile Forge.exe`
-3. Select your `Content.ggpk` or `_.index.bin` file
-4. Choose your patches and hit **Apply**
+Exile Forge allows you to apply, manage, and recover patches directly from:
 
-> ⚠️ Always use **Recover** after a game update before re-applying patches.
+* `Content.ggpk` (Standalone Client)
+* `_.index.bin` (Steam Client)
 
----
-
-## 🛡️ Safety & Recovery
-
-Path of Exile Modding Tool is designed with recovery in mind:
-- Built on Claude AI, this tool features 100% clean code, is completely malware-free, and does not collect any user data.
+No command-line knowledge required.
 
 ---
 
-## 🌐 Supported Languages
+# 🎨 Visual & Performance Optimization
 
-- VN Vietnamese 
-- EN English 
-- JP Japanese 
-- KR Korean 
-- BR Portuguese 
-- RU Russian 
-- TH Thai 
-- TW Chinese
+* Remove heavy particles, fog, shadows, and visual clutter
+* Delirium effect removal
+* Clean terrain options
+* Hide monsters and unnecessary effects
+* Black-screen mode for low-end PCs or automation setups
+* Full support for both PoE 1 and PoE 2
 
 ---
 
-## 🛠️ Built With
+# 🗺️ UI & Camera Tweaks
 
-- [.NET 10](https://dotnet.microsoft.com/) + WPF
-- [LibGGPK3](https://github.com/aianlinb/LibGGPK3) — GGPK read/write
-- [LibBundle3](https://github.com/aianlinb/LibGGPK3) — Bundle handling
-- [Pfim](https://github.com/nickbabcock/Pfim) — DDS image preview
-- [Newtonsoft.Json](https://www.newtonsoft.com/json)
+* Adjustable camera zoom unlocker
+* Hide loading screens
+* Force monster life bars
+* Corpse visibility toggle
+* Custom minimap colors and markers
 
----
-
-## ⚠️ Disclaimer
-
-- This tool modifies local game files for **personal, non-commercial use** only. It does not interact with game servers or inject into the game process.
-- Use at your own risk. 
+![Minimap](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/Minimap2.PNG)
 
 ---
 
-## FAQ: Why does a lifetime free tool need a License Key?
-- You might be wondering: Is this some kind of trap? Is the developer just waiting for the community to grow before slapping on a subscription fee, or worse, trying to secretly harvest user data?
+# 🐾 League Mechanic Highlights
 
-**Let me clarify this once and for all**: 
-- This tool will always remain 100% free. There are absolutely no hidden costs, no malware, and zero data-harvesting scripts under the hood. Your privacy and trust are my top priorities.
+Quickly identify important encounters and valuable league content.
 
-- So, why the License Key system? It’s all about building a connected community.
+Examples include:
 
-- By implementing this key system, it helps bring everyone together into our official Discord server. Here is why Discord is a game-changer for us compared to Facebook:
-
-- No missed posts: On Facebook, important bug reports and updates easily get buried by the algorithm or stuck waiting for admin approval.
-
-- Streamlined support: Discord allows me to track feedbacks, squash bugs, and implement your new feature ideas much faster and more efficiently.
-
-- *Think of the key as a free pass to a better, more organized support hub*. 
-I truly appreciate your understanding, and I'm excited to have you guys along for the ride as we continue to improve this tool together!
+* Black Morrigan
+* Craicic Chimeral
+* Hellion Alpha
+* Nameless Seer
+* Reflecting Mist
+* Zana Memories
 
 ---
 
-## 💬 Community & Support
+# 🎭 Free MTX Replacer
 
-Have a bug? A patch idea? Want to hang out with fellow exiles?
+Replace default visuals with premium-style:
 
-👉 **[Discord Server](https://discord.gg/77E3ffa547)**
+* Pets
+* Portals
+* Skill effects
 
 ---
 
-*Made with ☕ and too many hours in Wraeclast.*
+# 🔁 Smart Recovery System
+
+* No local extraction required
+* Connects directly to PoE patch servers
+* Automatically restores clean files
+* Recovery process typically completes in under 10 seconds
+
+![Recovery](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/Recover2.PNG)
+
+---
+
+# 💾 Profile Management
+
+* Separate profiles for PoE 1 and PoE 2
+* Save patch states and settings
+* Store custom colors and MTX swaps
+* Automatically reload previous configurations
+
+---
+
+# 🔐 Privacy
+
+Exile Forge is a free community project focused on transparency.
+
+* No sign-up required
+* No license keys
+* No telemetry
+* No data collection
+* Built with modern .NET + WPF
+
+Your local files remain local.
+
+---
+
+# 🛡️ Safety Disclaimer
+
+This tool modifies local client assets only for personal visual customization.
+
+It does **not**:
+
+* Inject into the game process
+* Hook memory
+* Interact with official game servers
+
+Use at your own discretion and always respect the game's Terms of Service.
+
+---
+
+# 🌐 Supported Languages
+
+* English
+* Vietnamese
+* Japanese
+* Korean
+* Portuguese (BR)
+* Russian
+* Thai
+* Chinese (TW)
+
+---
+
+# 💬 Community & Support
+
+If you encounter bugs, want to suggest new patches, or contribute to development, feel free to join the Discord community.
+
+Joining is completely optional.
+
+## Discord
+
+https://discord.gg/77E3ffa547
+
+---
+
+# 🚀 Getting Started
+
+## Download
+
+https://github.com/talagio90/GGPK-Modding-Tool/releases/download/V2.6/Exile.Forge.Ver2.6.zip
+
+## VirusTotal Scan
+
+https://www.virustotal.com/gui/url/6ba0714d9b34204653ef7c0f52ab32a20c322d1dd088d3eeadf69fb009425e58/detection
+
+---
+
+# 📦 Quick Setup
+
+1. Launch `Exile Forge.exe`
+2. Select your `Content.ggpk` or `_.index.bin`
+3. Choose your desired patches
+4. Click `Apply`
+
+---
+
+Made with ☕ and too many hours in Wraeclast.
