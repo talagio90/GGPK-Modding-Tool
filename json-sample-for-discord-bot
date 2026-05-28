@@ -1,0 +1,33 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "📢 EXILE FORGE - OFFICIAL RELEASE (VERSION 2.9)",
+      "description": "📥 [CLICK HERE TO DOWNLOAD VER 2.9](https://github.com/talagio90/GGPK-Modding-Tool/releases/download/V2.9/Exile.Forge.-.Ver.2.9.zip)\n\n🔑 Extraction Password (Pass): `ExileForge`\n\n",
+      "color": 16766720
+    },
+    {
+      "title": "🔐 PRIVACY, TRANSPARENCY & SAFETY",
+      "description": "🧱 Privacy & Transparency\n\nExile Forge is a completely free community project focused on transparency and ease of use.\n\n- **No Sign-Up Required:** No accounts, no activation keys, and no registration.\n- **No Telemetry:** No analytics, tracking scripts, or background data collection.\n- **Modern Desktop Stack:** Built using modern .NET + WPF technologies.\n\n 🛡️ Safety & Disclaimer\n\n- This tool modifies **local client assets only** for personal visual customization.\n- It does **not** inject into the active game process, edit memory, or interact with official game servers.\n- *Use at your own discretion and always respect the game's Terms of Service.*",
+      "color": 2067276
+    },
+    {
+      "title": "🛡️ SECURITY & SAFETY GUARANTEE",
+      "description": " 🔍 [Click here to view VirusTotal scan results](https://www.virustotal.com/gui/url/7b53735f137aa68e16a25085c5e9bfa9deabf32c931bda73828e79f4877c2998?nocache=1)\n\nYou are always welcome to scan the binaries yourself on VirusTotal for additional verification!\n\n⚠️ **RECOMMENDATIONS & DISCLAIMER:**\n\n- For maximum safety, **only download this tool from our official Discord server**.\n- For your peace of mind, I always encourage everyone to re-scan the file themselves before running it.\n- *Use at your own risk.*",
+      "color": 3066993
+    },
+    {
+      "title": "⚠️ IMPORTANT NOTICE FOR BOTTING",
+      "description": "📌 ATTENTION BOT OPERATORS\n\nIf you are running bots, please **strictly select ONLY the `Black Screen` option** under the **Only For Bot** section. As it automatically apply all patches",
+      "color": 15158332
+    },
+    {
+      "title": "🔗 QUICK LINKS ",
+      "description": "📜 View Detailed Changelog: <#1496064543737249884>",
+      "color": 3447003,
+      "footer": {
+        "text": "💡 Tip: Please restart the tool to automatically check for and deploy the latest updates!"
+      }
+    }
+  ]
+}
