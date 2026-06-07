@@ -1,2 +1,0 @@
-# Danh sách HWID bị thu hồi (mỗi HWID một dòng)
-# Dòng bắt đầu bằng # sẽ bị bỏ qua
