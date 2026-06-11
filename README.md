@@ -12,7 +12,7 @@ Improve performance, reduce visual clutter, customize your UI, and streamline yo
 
 ## 🖥️ Main Patch Selection
 
-![Main Window](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/mainwindown2.PNG)
+![Main Window](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/ver3-6.png)
 
 ---
 
