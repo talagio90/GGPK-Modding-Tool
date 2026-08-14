@@ -12,7 +12,7 @@ Improve performance, reduce visual clutter, customize your UI, and streamline yo
 
 ## 🖥️ Main Patch Selection
 
-![Main Window](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/ver3-6.png)
+![Main Window](https://raw.githubusercontent.com/talagio90/GGPK-Modding-Tool/main/screenshots/MainWindow55.png)
 
 ---
 
@@ -128,10 +128,6 @@ Replace default visuals with premium-style:
 
 # 🔐 Privacy
 
-Exile Forge is a free community project focused on transparency.
-
-* No sign-up required
-* No license keys
 * No telemetry
 * No data collection
 * Built with modern .NET + WPF
